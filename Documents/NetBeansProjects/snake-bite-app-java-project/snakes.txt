@@ -1,0 +1,26 @@
+Anaconda,10,Within 4 hours
+Black Mamba,2,Within 30 minutes
+Boomslang,7,Within 2 hours
+Cobra,1,Immediate
+Copperhead,11,Within 5 hours
+Coral Snake,8,Within 3 hours
+Cottonmouth,12,Within 6 hours
+Eastern Brown,3,Within 1 hour
+Fer-de-Lance,6,Within 1 hour
+Garter Snake,25,Non-fatal
+Green Mamba,4,Within 1 hour
+King Cobra,5,Within 45 minutes
+Krait,9,Within 3 hours
+Mamba,13,Within 30 minutes
+Moccasin,15,Within 7 hours
+Puff Adder,16,Within 8 hours
+Python,26,Non-fatal
+Rattlesnake,14,Within 2 hours
+Russell's Viper,17,Within 9 hours
+Saw-scaled Viper,18,Within 10 hours
+Sea Snake,19,Immediate
+Taipan,20,Within 30 minutes
+Tiger Snake,21,Within 1 hour
+Viper,22,Within 1 hour
+Western Diamondback,23,Within 4 hours
+Yellow-bellied Sea Snake,24,Within 2 hours
