@@ -20,7 +20,7 @@ The Snake Bite Medical Information App is a Java Swing application designed to p
 ## How to Run
 1. Clone the repository:
    ```bash
-   git clone https://github.com/yourusername/SnakeBiteApp.git
+   git clone https://github.com/HChristopherNaoyuki/snake-bite-app-java-project.git
    ```
 2. Navigate to the project directory:
    ```bash
@@ -36,15 +36,7 @@ The Snake Bite Medical Information App is a Java Swing application designed to p
    ```
 
 ## License
-This project is licensed under the [Creative Commons Attribution-NonCommercial 4.0 International License](https://creativecommons.org/licenses/by-nc/4.0/). 
-
-You are free to:
-- Share — copy and redistribute the material in any medium or format
-- Adapt — remix, transform, and build upon the material
-
-Under the following terms:
-- **Attribution** — You must give appropriate credit, provide a link to the license, and indicate if changes were made. You may do so in any reasonable manner, but not in any way that suggests the licensor endorses you or your use.
-- **NonCommercial** — You may not use the material for commercial purposes.
+This project is licensed under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause) and the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause). Both licenses are permissive and allow for broad use, with very few restrictions.
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
