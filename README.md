@@ -36,7 +36,7 @@ The Snake Bite Medical Information App is a Java Swing application designed to p
    ```
 
 ## License
-This project is licensed under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause) and the [BSD 3-Clause License](https://opensource.org/licenses/BSD-3-Clause). Both licenses are permissive and allow for broad use, with very few restrictions.
+This project is licensed under the [BSD 2-Clause License](https://opensource.org/licenses/BSD-2-Clause).
 
 ## Contributing
 Contributions are welcome! Please open an issue or submit a pull request for any enhancements or bug fixes.
